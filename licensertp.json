@@ -1,16 +1,16 @@
 {
   "situs_list": {
-    "localhost": {
+    "ngentot.com": {
       "status": true,
       "start_date": "2023-07-29",
       "end_date": "2052-12-30"
     },
-    "ngentot.com": {
+    "rtp-slot.wiki": {
       "status": true,
       "start_date": "2023-03-07",
       "end_date": "2024-03-07"
     },
-    "www.ngentot.com": {
+    "www.rtp-slot.wiki": {
       "status": true,
       "start_date": "2023-03-07",
       "end_date": "2024-03-07"
